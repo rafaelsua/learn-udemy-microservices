@@ -1,4 +1,4 @@
-package demo;
+package com.dhaker.microservices.lab5.sentence;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
