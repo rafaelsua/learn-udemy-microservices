@@ -4,7 +4,8 @@ spring:
     config:
       server:
           git:
-            uri: https://github.com/rafaelsua/learn-udemy-microservices
+            #uri: https://github.com/rafaelsua/learn-udemy-microservices
+            uri: file:/git/learn-udemy-microservices
             searchPaths: ConfigData
             # "native" is used when the native profile is active, for local tests with a classpath repo:
           native:
