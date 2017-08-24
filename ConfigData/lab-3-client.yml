@@ -1,4 +1,2 @@
 ---
-wordConfig:
-  preamble: The lucky word is
-  luckyWord: Irish
+lucky-word: Islands
